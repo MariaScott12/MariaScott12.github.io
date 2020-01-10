@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Maria "Marie" Scott
+  url:               https://github.com/MariaScott12
+  email:            mariaangelscott@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/MariaScott12.github
 
 # Gems
 gems:
